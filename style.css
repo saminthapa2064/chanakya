@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#website{
+    background-color: grey blue;
+    width: 200px;
+    height: 100vh;
+}
